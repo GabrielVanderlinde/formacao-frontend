@@ -25,3 +25,17 @@ p {
     padding: 10px;
     font-size: 40px;
 }
+
+#algum-titulo {
+    color: green;
+    border-bottom: 1px solid yellow;
+}
+
+.titulo {
+    color: yellow;
+    border-bottom: 1px solid blue;
+}
+
+h2 {
+    border-bottom: 1px solid red;
+}
