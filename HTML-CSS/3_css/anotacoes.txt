@@ -12,3 +12,8 @@ External: Quando o CSS é adicionado através de um arquivo externo, depois impo
 2 - Dois Pontos
 3 - Valor
 4 - Ponto e Vírgula
+
+--- ORDEM CSS ---
+
+Ordem de Aplicação:
+inline > internal = external
