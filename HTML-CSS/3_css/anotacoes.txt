@@ -1,0 +1,7 @@
+--- Maneiras de Adicionar o CSS ---
+
+Inline: Quando os estilos são adicionados por um atributo
+
+Internal: Quando o CSS é adicionado na tag head
+
+External: Quando o CSS é adicionado através de um arquivo externo, depois importado no HTML
