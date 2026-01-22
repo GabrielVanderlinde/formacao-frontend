@@ -5,3 +5,10 @@ Inline: Quando os estilos são adicionados por um atributo
 Internal: Quando o CSS é adicionado na tag head
 
 External: Quando o CSS é adicionado através de um arquivo externo, depois importado no HTML
+
+--- Anatomia CSS ---
+
+1 - Nome da Propriedade
+2 - Dois Pontos
+3 - Valor
+4 - Ponto e Vírgula
