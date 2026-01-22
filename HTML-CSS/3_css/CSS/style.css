@@ -11,8 +11,17 @@ p {
     color: blueviolet;
 }
 
+/* classes */
 .paragrafo {
     background-color: black;
     color: aqua;
-    padding: 5px;
+    padding: 10px;
+}
+
+/* ids */
+#exclusive-title {
+    background-color: violet;
+    color: yellow;
+    padding: 10px;
+    font-size: 40px;
 }
