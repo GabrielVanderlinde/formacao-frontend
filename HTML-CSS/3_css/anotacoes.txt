@@ -22,3 +22,7 @@ inline > internal = external
 
 Ids: São utilizados para Elementos Únicos
 Classes: Servem para um ou mais elementos, geralmente utilizadas em conjuntos de elementos
+
+-- A ORDEM DOS SELETORES --
+Ordem de Aplicação:
+id > class > seletor tag
