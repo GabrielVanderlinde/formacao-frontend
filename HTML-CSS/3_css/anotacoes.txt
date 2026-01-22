@@ -1,4 +1,4 @@
---- Maneiras de Adicionar o CSS ---
+--- MANEIRAS DE ADICIONAR O CSS ---
 
 Inline: Quando os estilos são adicionados por um atributo
 
@@ -6,7 +6,7 @@ Internal: Quando o CSS é adicionado na tag head
 
 External: Quando o CSS é adicionado através de um arquivo externo, depois importado no HTML
 
---- Anatomia CSS ---
+--- ANATOMIA DO CSS ---
 
 1 - Nome da Propriedade
 2 - Dois Pontos
@@ -17,3 +17,8 @@ External: Quando o CSS é adicionado através de um arquivo externo, depois impo
 
 Ordem de Aplicação:
 inline > internal = external
+
+-- CLASSES E IDS --
+
+Ids: São utilizados para Elementos Únicos
+Classes: Servem para um ou mais elementos, geralmente utilizadas em conjuntos de elementos
