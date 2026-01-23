@@ -233,3 +233,8 @@ h2 {
     width: 300px;
     border: 5px solid red;
 }
+
+/* Texto decorado */
+.text-underline {
+    text-decoration: underline;
+}
