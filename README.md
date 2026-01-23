@@ -4,6 +4,8 @@ Este repositório reúne meus estudos e aprendizados na **Formação Front-End**
 
 Ao longo da formação, estudo e pratico as principais tecnologias utilizadas no mercado, sempre aplicando boas práticas de código e desenvolvendo projetos para consolidar o aprendizado.
 
+---
+
 ## Tecnologias
 - HTML5  
 - CSS3  
@@ -16,3 +18,4 @@ Ao longo da formação, estudo e pratico as principais tecnologias utilizadas no
 - JavaScript  
 - React  
 - TypeScript com React  
+
