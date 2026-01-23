@@ -166,3 +166,31 @@ h2 {
     padding: 50px;
     box-sizing: border-box;
 }
+
+/* Border */
+.border {
+    border: 5px solid red;
+    color: #000;
+}
+
+.border-2 {
+    border: 2px dotted green;
+    padding: 50px;
+}
+
+/* Borda Individual */
+
+.border-left {
+    border: 3px solid red;
+}
+
+.border-bottom {
+    border: 5px double #399;
+}
+
+/* Border Radius */
+.border-radius {
+    padding: 50px;
+    background-color: #000;
+    border-radius: 35px;
+}
