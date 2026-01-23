@@ -38,6 +38,7 @@ p {
 
 h2 {
     border-bottom: 1px solid red;
+<<<<<<< HEAD
 }
 
 /*Nome das Cores*/
@@ -59,4 +60,6 @@ h2 {
 
 .rgba {
     color: rgba(100, 199, 40, 0.3);
+=======
+>>>>>>> 948b69f49f4ec493fa8d27be3ed83834d4045f25
 }
