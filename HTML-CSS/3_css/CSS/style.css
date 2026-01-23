@@ -179,7 +179,7 @@ h2 {
 }
 
 /* Borda Individual */
-
+/*  */
 .border-left {
     border: 3px solid red;
 }
@@ -193,4 +193,21 @@ h2 {
     padding: 50px;
     background-color: #000;
     border-radius: 35px;
+}
+
+/* Margem */
+.margin {
+    margin: 15px;
+    background-color: purple;
+}
+
+.margin-top {
+    margin-top: 200px;
+    background-color: violet padding;
+    padding: 10px;
+}
+
+.margin-shorthan {
+    background-color: yellow;
+    margin: 50px 15px 50px 15px;
 }
