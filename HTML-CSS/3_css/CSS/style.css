@@ -87,3 +87,8 @@ h2 {
     background-color: #999;
     opacity: #000;
 }
+
+/* BG Image */
+.bg-img {
+    background-image: url("../img/canada-flag.png");
+}
