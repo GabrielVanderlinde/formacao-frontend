@@ -138,3 +138,15 @@ h2 {
     padding-left: 45px;
     background-color: violet;
 }
+
+/* Shorthand padding */
+.shorthand-padding {
+    padding: 100px 12px 100px 14px;
+    background-color: aqua;
+}
+
+.shorthand-padding-2 {
+    background-color: #555;
+    padding: 10px 20px;
+    color: white;
+}
