@@ -221,3 +221,15 @@ h2 {
     width: 200px;
     height: 100px;
 }
+
+/* Text Alignment */
+
+.text-aligned {
+    text-align: right;
+}
+
+.containeir-center {
+    text-align: center;
+    width: 300px;
+    border: 5px solid red;
+}
