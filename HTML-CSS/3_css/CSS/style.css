@@ -129,3 +129,12 @@ h2 {
     padding: 20px;
     color: fff;
 }
+
+/* Padding Individual */
+.padding-individual {
+    padding-left: 45px;
+    padding-top: 80px;
+    padding-right: 25px;
+    padding-left: 45px;
+    background-color: violet;
+}
