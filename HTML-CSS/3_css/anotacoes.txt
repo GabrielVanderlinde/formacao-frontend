@@ -31,3 +31,8 @@ id > class > seletor tag
 
 Color Name: Nome das Cores
 Hexadecimal: Valor de 0 a 9 (Mais escuro para mais claro)
+
+-- SHORTHAND PROPERTIES --
+
+Sequência:Top, Right, Bottom e Left
+Ex: padding: 10px 5px 12px 20px;
