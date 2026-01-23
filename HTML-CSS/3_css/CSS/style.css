@@ -150,3 +150,19 @@ h2 {
     padding: 10px 20px;
     color: white;
 }
+
+/* Padding com Width */
+.without-border-box {
+    background-color: #444;
+    color: #fff;
+    width: 400px;
+    padding: 50px;
+}
+
+.border-box {
+    background-color: #666;
+    color: #fff;
+    width: 400px;
+    padding: 50px;
+    box-sizing: border-box;
+}
