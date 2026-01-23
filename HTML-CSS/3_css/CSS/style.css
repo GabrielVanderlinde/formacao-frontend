@@ -25,3 +25,38 @@ p {
     padding: 10px;
     font-size: 40px;
 }
+
+#algum-titulo {
+    color: green;
+    border-bottom: 1px solid yellow;
+}
+
+.titulo {
+    color: yellow;
+    border-bottom: 1px solid blue;
+}
+
+h2 {
+    border-bottom: 1px solid red;
+}
+
+/*Nome das Cores*/
+.color-name {
+    color: crimson;
+}
+
+.color-hex {
+    color: #1a4b3c;
+}
+
+.rgb {
+    color: rgb(255, 00, 00);
+}
+
+.mixed-rgb {
+    color: rgb(145, 1, 78);
+}
+
+.rgba {
+    color: rgba(100, 199, 40, 0.3);
+}
