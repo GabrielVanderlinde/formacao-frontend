@@ -26,3 +26,8 @@ Classes: Servem para um ou mais elementos, geralmente utilizadas em conjuntos de
 -- A ORDEM DOS SELETORES --
 Ordem de Aplicação:
 id > class > seletor tag
+
+-- CORES CSS --
+
+Color Name: Nome das Cores
+Hexadecimal: Valor de 0 a 9 (Mais escuro para mais claro)
