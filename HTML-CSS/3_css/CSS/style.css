@@ -92,3 +92,16 @@ h2 {
 .bg-img {
     background-image: url("../img/canada-flag.png");
 }
+
+/* Centralização de Imagem */
+.not-centered-bg,
+.centered-bg {
+    width: 400px;
+    height: 400px;
+    background-image: url("../img/canada-flag.png");
+}
+
+.centered-bg {
+    background-image: center;
+    background-size: cover;
+}
