@@ -243,3 +243,7 @@ h2 {
 .text-transform {
     text-transform: uppercase;
 }
+
+.letra-espacada {
+    letter-spacing: 5px;
+}
