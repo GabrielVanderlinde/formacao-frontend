@@ -296,3 +296,19 @@ h2 {
 .size {
     font-size: 150px;
 }
+
+/* Display */
+
+.inline-box {
+    width: 50px;
+    height: 50px;
+    background-color: #399;
+    margin: 10px;
+    display: inline-block;
+}
+
+.block {
+    background-color: #1a4b3c;
+    margin: 10px;
+    display: block;
+}
