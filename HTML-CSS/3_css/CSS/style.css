@@ -260,3 +260,12 @@ h2 {
 .fonte-family-3 {
     font-family: monospace;
 }
+
+/* Font Style */
+.italic {
+    font-style: italic;
+}
+
+.oblique {
+    font-style: oblique;
+}
