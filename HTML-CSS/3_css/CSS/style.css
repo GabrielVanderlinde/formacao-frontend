@@ -238,3 +238,8 @@ h2 {
 .text-underline {
     text-decoration: underline;
 }
+
+/* Texto Transoformado */
+.text-transform {
+    text-transform: uppercase;
+}
