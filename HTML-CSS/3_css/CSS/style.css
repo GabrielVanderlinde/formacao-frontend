@@ -262,10 +262,32 @@ h2 {
 }
 
 /* Font Style */
+
 .italic {
     font-style: italic;
 }
 
 .oblique {
     font-style: oblique;
+}
+
+/* Font Weight */
+.thin,
+.bold,
+.weight {
+    font-family: Arial;
+}
+
+.thin {
+    font-weight: 100;
+}
+
+.bold {
+    font-weight: 600;
+
+}
+
+.weight {
+    font-weight: 900;
+
 }
