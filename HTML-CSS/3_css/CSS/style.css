@@ -247,3 +247,16 @@ h2 {
 .letra-espacada {
     letter-spacing: 5px;
 }
+
+/* Font Family */
+.fonte-family {
+    font-family: Helvetica;
+}
+
+.fonte-family-2 {
+    font-family: Georgia;
+}
+
+.fonte-family-3 {
+    font-family: monospace;
+}
