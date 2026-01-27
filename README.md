@@ -18,3 +18,4 @@ Ao longo da formação, estudo e pratico as principais tecnologias utilizadas no
 - JavaScript  
 - React  
 - TypeScript com React
+- 
